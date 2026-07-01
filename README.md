@@ -51,24 +51,6 @@
 
 ---
 
-# 📊 GITHUB STATS
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dharmesh-yadavo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmesh-yadavo&theme=midnight-purple&hide_border=true&background=0D1117"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dharmesh-yadavo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
----
-
 # 🌍 CONNECT WITH ME
 
 <p align="center">
@@ -82,15 +64,6 @@
 </a>
 
 </p>
-
----
-
-# 🧠 CURRENT MISSION
-
-- ⚡ Deepening expertise in advanced animations and 3D web layouts (GSAP & Framer Motion).
-- ⚡ Integrating real-time communication technologies (Socket.IO).
-- ⚡ Exploring advanced DevOps practices and deployment orchestration.
-- ⚡ Contributing meaningfully to the Open Source full-stack community.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0D1117,30:330066,70:6A0DAD,100:B266FF"/>
