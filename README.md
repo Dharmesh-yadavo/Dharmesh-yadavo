@@ -6,11 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Dharmesh%20Yadav&fontSize=50&color=0:0D1117,30:330066,70:6A0DAD,100:B266FF&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharmesh-yadavo&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/Dharmesh-yadavo?style=for-the-badge&color=6A0DAD"/>
-</p>
-
 ---
 
 # ⚡ ABOUT ME
